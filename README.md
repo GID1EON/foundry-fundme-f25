@@ -1,6 +1,8 @@
 # Foundry Fund Me
 
-This is a section of the Cyfrin Solidity Course.
+This is a section of the Cyfrin Solidity Course completed by me (Gideon) :).
+Foundry Fund Me is a solidity project which enables Onchain crowd-sourcing.
+Many thanks to Patrick and Cyfrin Updraft for this.
 
 *[⭐️ Updraft | Foundry Fund Me](https://updraft.cyfrin.io/courses/foundry/foundry-fund-me/fund-me-project-setup)*
 
@@ -25,7 +27,6 @@ This is a section of the Cyfrin Solidity Course.
 - [Additional Info:](#additional-info)
   - [Let's talk about what "Official" means](#lets-talk-about-what-official-means)
   - [Summary](#summary)
-- [Thank you!](#thank-you)
 
 
 # Getting Started
